@@ -1,0 +1,2 @@
+# AFD
+Automato Finito Deterministico
